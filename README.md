@@ -84,18 +84,3 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 [![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandon-keck&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandon-keck&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brandon-keck&theme=transparent&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon-keck&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="180" alt="Brandon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-keck&layout=compact&theme=react&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brandon-keck&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-
