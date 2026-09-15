@@ -87,6 +87,15 @@ Thanks for stopping by! Feel free to explore my repositories or reach out if you
 
 
 ## 📊 GitHub Metrics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandon-keck&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brandon-keck&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="180" alt="Brandon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-keck&layout=compact&theme=react&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=brandon-keck&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 
