@@ -14,7 +14,7 @@ Here’s a snapshot of what I’ve been working on:
 - Building reproducible analyses with **R, R Markdown, and Quarto**
 
 📁 **Featured Coursework Repository:**  
-👉 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
+👉 [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework)
 
 ---
 
@@ -59,7 +59,7 @@ Here’s a snapshot of what I’ve been working on:
 
   
 Explore all coursework →  
-📁 [GradSchoolCoursework](https://github.com/branistician87/GradSchoolCoursework)
+📁 [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework)
 
 ---
 
