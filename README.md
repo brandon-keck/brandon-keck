@@ -20,6 +20,7 @@ and stakeholder analysis to help teams make better decisions.
 ## 📌 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
+| [Olist E-Commerce Analysis](https://github.com/brandon-keck/olist-ecommerce-analysis) | SQL analysis of 100k orders across 9 tables. Found that late deliveries (7% of orders) cause ~37% of 1-star reviews and that the true repeat rate is only ~2.2%, with recommendations for delivery and retention. | SQL (DuckDB), Python |
 | [CFB Power Ratings](https://github.com/brandon-keck/cfb-rankings) | Elo-style rating engine built on multi-season CollegeFootballData API data. Backtested on every FBS-vs-FBS game since 2019 at **71.4% accuracy** (+12.6 pts over a home-favorite baseline), with weekly automated updates and a live dashboard. | Python, GitHub Actions, Chart.js |
 | [Titanic Survival Prediction](https://github.com/brandon-keck/titanic-survival-prediction) | End-to-end classification pipeline comparing six models with stratified 5-fold CV and GridSearchCV tuning. Final Random Forest reached **83.7% validation accuracy** and **0.890 AUC**. | Python, scikit-learn, XGBoost |
 | [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework) | Graduate projects in probability, regression, bootstrapping, statistical learning, and NLP | R, Quarto |
