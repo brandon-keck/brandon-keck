@@ -59,7 +59,7 @@ and stakeholder analysis to help teams make better decisions.
 ---
 
 ## 📬 Connect
-[Portfolio](https://brandon-keck.github.io) · [LinkedIn](https://www.linkedin.com/in/brandon-d-keck) · [Email](mailto:your@email.com)
+[Portfolio](https://brandon-keck.github.io) · [LinkedIn](https://www.linkedin.com/in/brandon-d-keck) · [Email](mailto:brandon.keck87@gmail.com)
 
 ---
 
