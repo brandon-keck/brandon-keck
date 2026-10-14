@@ -19,8 +19,8 @@ and stakeholder analysis to help teams make better decisions.
 ## 📌 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Project Name](link) | One line on the business question and result | Python, SQL |
-| [Project Name](link) | One line on the business question and result | R, Tableau |
+| [CFB Power Ratings](link) | Elo-style rating engine built on multi-season CollegeFootballData API data. Backtested on every FBS-vs-FBS game since 2019 at **71.4% accuracy** (+12.6 pts over a home-favorite baseline), with weekly automated updates and a live dashboard. | Python, GitHub Actions, Chart.js |
+| [Titanic Survival Prediction](link) | End-to-end classification pipeline comparing six models with stratified 5-fold CV and GridSearchCV tuning. Final Random Forest reached **83.7% validation accuracy** and **0.890 AUC**. | Python, scikit-learn, XGBoost |
 | [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework) | Graduate projects in probability, regression, bootstrapping, statistical learning, and NLP | R, Quarto |
 
 ---
@@ -58,7 +58,8 @@ and stakeholder analysis to help teams make better decisions.
 
 ---
 
-## 📬 Connect: [LinkedIn](https://www.linkedin.com/in/brandon-d-keck) 
+## 📬 Connect
+[Portfolio](https://brandon-keck.github.io) · [LinkedIn](https://www.linkedin.com/in/brandon-d-keck) · [Email](mailto:your@email.com)
 
 ---
 
