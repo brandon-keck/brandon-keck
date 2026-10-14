@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Keck 👋
 
-**Business Analyst** at Sapporo USA· M.S. in Data Science, Cal State East Bay (2026)
+**Business Analyst** at Sapporo USA · M.S. in Data Science, Cal State East Bay (2026)
 
 I turn messy business questions into clear, data-backed answers. My background is in
 applied statistics and predictive modeling, and day to day I work across SQL, dashboards,
