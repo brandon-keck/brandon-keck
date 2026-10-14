@@ -27,7 +27,9 @@ and stakeholder analysis to help teams make better decisions.
 
 ## 🛠 Toolkit
 **Languages:** SQL (PostgreSQL, MySQL) · R (tidyverse, ggplot2, caret) · Python (pandas, NumPy, scikit-learn)
+
 **BI & Tools:** Tableau · Power BI · Excel · Git/GitHub · Jupyter · VS Code · RStudio
+
 **Methods:** EDA · statistical inference · regression & classification · time series · bootstrap & permutation tests
 
 ---
