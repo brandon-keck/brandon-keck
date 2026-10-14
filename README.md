@@ -58,9 +58,9 @@ and stakeholder analysis to help teams make better decisions.
 
 ---
 
-## 📬 Connect
-[LinkedIn](https://www.linkedin.com/in/brandon-d-keck) 
+## 📬 Connect: [LinkedIn](https://www.linkedin.com/in/brandon-d-keck) 
 
+---
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandon-keck&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandon-keck&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
