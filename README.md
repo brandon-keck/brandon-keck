@@ -9,10 +9,11 @@ and stakeholder analysis to help teams make better decisions.
 ---
 
 ## 🔍 What I Do
+- **Process automation:** streamlining manual workflows with Python and Power Automate
+- **Forecasting & machine learning:** building predictive models to forecast business trends
+- **Reporting & dashboards:** building self-serve reporting in Power BI, with experience in Tableau
 - **Business analysis:** defining KPIs, gathering requirements, and translating stakeholder questions into analyses
-- **Reporting & dashboards:** building self-serve reporting in [Tableau / Power BI]
 - **Statistical modeling:** regression, classification, hypothesis testing, and resampling methods
-- **Reproducible analysis:** R Markdown, Quarto, and version-controlled workflows
 
 ---
 
