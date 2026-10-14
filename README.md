@@ -1,78 +1,65 @@
-# Hey what's up, I'm Brandon Keck! 
-🎓 *M.S. in Data Science | Applied Statistics | Machine Learning | Data Visualization*
+# Hi, I'm Brandon Keck 👋
 
-Welcome to my GitHub profile! I’m recently completed my Master’s in Data Science at **California State University, East Bay**, in **May 2026**. My work focuses on applied statistics, predictive modeling, and building data-driven solutions using R, Python, SQL, and modern visualization tools.
+**Business Analyst** at Sapporo USA· M.S. in Data Science, Cal State East Bay (2026)
 
-Here’s a snapshot of what I’ve been working on:
-
----
-
-## 📊 Data Science & Statistical Modeling
-- ANOVA, regression modeling, bootstrapping, and resampling methods  
-- Predictive modeling and supervised learning techniques  
-- Hands-on academic projects across probability, statistical methods, and advanced R programming  
-- Building reproducible analyses with **R, R Markdown, and Quarto**
-
-📁 **Featured Coursework Repository:**  
-👉 [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework)
+I turn messy business questions into clear, data-backed answers. My background is in
+applied statistics and predictive modeling, and day to day I work across SQL, dashboards,
+and stakeholder analysis to help teams make better decisions.
 
 ---
 
-## 🛠 Technical Skills
-
-### **Languages**
-- **R** (tidyverse, ggplot2, boot, caret)
-- **Python** (pandas, NumPy, scikit-learn)
-- **SQL** (MySQL, PostgreSQL)
-
-### **Tools**
-- **RStudio**, **Git/GitHub**, **Tableau**, **Power BI**, **Jupyter**, **Visual Studio Code**
-
-### **Methods**
-- Exploratory data analysis  
-- Statistical inference & hypothesis testing  
-- Regression, classification, time series  
-- Resampling (bootstrap, jackknife, permutation tests)  
-- Machine learning workflows  
+## 🔍 What I Do
+- **Business analysis:** defining KPIs, gathering requirements, and translating stakeholder questions into analyses
+- **Reporting & dashboards:** building self-serve reporting in [Tableau / Power BI]
+- **Statistical modeling:** regression, classification, hypothesis testing, and resampling methods
+- **Reproducible analysis:** R Markdown, Quarto, and version-controlled workflows
 
 ---
 
-## 📚 Graduate Coursework 
-### **Fall 2024**
-- **STAT 620 — Probability & Statisical Theory**
-- **STAT 630 — Statistical Methods**
-- **STAT 650 — Advanced R Programming**
-
-### **Spring 2025**
-- **STAT 631 - ANOVA**
-- **STAT 632 - Linear & Logistic Regression**
-
-### **Fall 2025**
-- **STAT 640 — Advanced Statistical Theory**
-- **STAT 641 — Bootstrapping**
-- **STAT 651 — Data Visualization**
-
-### **Spring 2026**
-- **STAT 652 - Statistical Learning**
-- **STAT 653 - Statistical Natural Language Processing**
-- **STAT 692 - Comprehensive Exam**
-
-  
-Explore all coursework →  
-📁 [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework)
+## 📌 Featured Projects
+| Project | Description | Tools |
+|---|---|---|
+| [Project Name](link) | One line on the business question and result | Python, SQL |
+| [Project Name](link) | One line on the business question and result | R, Tableau |
+| [GradSchoolCoursework](https://github.com/brandon-keck/GradSchoolCoursework) | Graduate projects in probability, regression, bootstrapping, statistical learning, and NLP | R, Quarto |
 
 ---
 
-## 🌱 Currently Learning
-- Data engineering foundations  
-- Advanced SQL optimization  
-- Machine learning model tuning  
-- Tableau interactive dashboards  
+## 🛠 Toolkit
+**Languages:** SQL (PostgreSQL, MySQL) · R (tidyverse, ggplot2, caret) · Python (pandas, NumPy, scikit-learn)
+**BI & Tools:** Tableau · Power BI · Excel · Git/GitHub · Jupyter · VS Code · RStudio
+**Methods:** EDA · statistical inference · regression & classification · time series · bootstrap & permutation tests
 
 ---
 
-## 📬 Connect with Me
-- 💼 LinkedIn: *www.linkedin.com/in/brandon-d-keck*   
+## 🌱 Currently Exploring
+- Advanced SQL and query optimization
+- Data engineering fundamentals (pipelines, data modeling)
+- Bringing predictive modeling into business workflows
+- Statistical Learning with Python (Stanford)
+
+---
+
+<details>
+<summary>🎓 Graduate Coursework (M.S. Data Science, CSU East Bay)</summary>
+
+- STAT 620 — Probability & Statistical Theory
+- STAT 630 — Statistical Methods
+- STAT 631 — ANOVA
+- STAT 632 — Linear & Logistic Regression
+- STAT 640 — Advanced Statistical Theory
+- STAT 641 — Bootstrapping
+- STAT 650 — Advanced R Programming
+- STAT 651 — Data Visualization
+- STAT 652 — Statistical Learning
+- STAT 653 — Statistical Natural Language Processing
+
+</details>
+
+---
+
+## 📬 Connect
+[LinkedIn](https://www.linkedin.com/in/brandon-d-keck) 
 
 ---
 
